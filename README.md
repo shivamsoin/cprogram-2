@@ -1,1 +1,1 @@
-# cprogram which includes arrray 
+# cprogram which includes integer arrray 
